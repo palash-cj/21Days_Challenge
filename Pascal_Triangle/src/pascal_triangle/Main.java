@@ -1,4 +1,12 @@
+/*
+ * Problem Statement: Pascal's triangle
+ * Level: Hard
+ * Time Complexity: O(N*N)
+ * Space Complexity: O(N*N)
+ */
+
 package pascal_triangle;
+
 
 public class Main {
 	public List<List<Integer>> generate(int numRows) {
